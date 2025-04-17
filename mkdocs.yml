@@ -44,3 +44,4 @@ theme:
 plugins:
     - offline
     - search
+    - git-revision-date-localized
