@@ -1,6 +1,8 @@
 site_name: World's Innovation
 site_description: Startup céer à l'inphb pour la réalisation de projets innovants
 site_author: Tenemahan Coulibaly
+copyright : Copyright 2025 Tenemahan Coulibaly - Creative Commons Attribution Non Commercial
+
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -23,6 +25,7 @@ theme:
     - search.highlight
     - search.suggest
     - search.share
+    
    
      
   palette:
@@ -43,5 +46,15 @@ theme:
         name: Switch to dark mode  
 plugins:
     - offline
+    - social
+    - tags
     - search
     - git-revision-date-localized
+    - privacy:
+      concurrency: 1
+nav:
+  - Accueil: index.md
+  - Téléchargement: telechargement.md
+markdown_extensions:
+  - footnotes  
+  - attr_list

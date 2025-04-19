@@ -1,16 +1,14 @@
-# REMERCIEMENTS
-
-## Remerciements
+# Remerciements
 
 Nous tenons à exprimer notre profonde gratitude à l'ensemble des enseignants-chercheurs qui nous ont accompagnés tout au long de notre parcours académique au sein de l'Institut National Polytechnique Félix Houphouët-Boigny (INP-HB), et plus particulièrement au corps professoral de l'École Supérieure d'Industrie (ESI), dont l'engagement indéfectible a été déterminant dans la qualité de notre formation.
 
-**Remerciements particuliers :**  
+## **Remerciements particuliers :**  
 
 - À Monsieur Jean-Nicaise Akaffou, pour son encadrement rigoureux, son suivi attentif et ses précieux conseils tout au long de ce projet.  
 
 - À l'élève encadreur Koné Zié Souléymane, pour son accompagnement constant et ses orientations avisées durant cette réalisation.
 
-**Témoignages de reconnaissance :**  
+## **Témoignages de reconnaissance :**  
 
 Nous exprimons également notre sincère reconnaissance à :  
 
