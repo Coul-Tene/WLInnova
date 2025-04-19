@@ -208,3 +208,11 @@ Des actions de l’image précédente découle celle-ci donnant un visuel 3D de 
 Cocher les memes cases comme indiquée sur l'image.
 
 ![Bonjour!](images\seven-image.jpg)
+
+---
+
+### Video de prise en main du logiciel KICAD
+
+L'objectif de cette vidéo est de nous permettre d'avoir les bases necessaires afin de  réaliser les étapes ci-dessus. CLIQUEZ SUR L'IMAGE 👇👇
+
+[![Titre de la vidéo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=l9b_6WLemmg&t=72s&pp=ugMICgJmchABGAHKBRNraWNhZCBwcmlzZSBlbiBtYWlu)
