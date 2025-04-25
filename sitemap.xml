@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/index.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/About%20us.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Remerciements.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Projets/Projet%201.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <loc>https://mydomain.org/mysite/Projets/Projet%201/Pr%C3%A9sentation.html</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Projets/Projet%202.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <loc>https://mydomain.org/mysite/Projets/Projet%201/R%C3%A9alisation%20du%20PCB.html</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Projets/telechargement.html</loc>
-         <lastmod>2025-04-21</lastmod>
+         <loc>https://mydomain.org/mysite/Projets/Projet%201/R%C3%A9alisation%20du%20boitier.html</loc>
+         <lastmod>2025-04-25</lastmod>
     </url>
 </urlset>
